@@ -1,4 +1,4 @@
-# 🛡️ Local PDF Studio
+# 🛡️ Local PDF Studio https://www.linkedin.com/feed/update/urn:li:ugcPost:7471888606161305600/
 
 A 100% offline, privacy-first PDF manipulation and AI analysis tool built with Python and Streamlit. 
 
